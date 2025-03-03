@@ -138,8 +138,8 @@ public final class PixelPropsUtils {
         "com.hihonor.cloudmusic",
         "com.kugou.android.lite",
         "com.kugou.android",
-        "com.meizu.media.music",
-        "com.netease.cloudmusic",
+        "com.lazada.android",
+        "com.shopee.ph",
         "com.tencent.qqmusic",
     };
 
